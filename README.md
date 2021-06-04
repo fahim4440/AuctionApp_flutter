@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-Hi this is Fahim from BUTEX.
+Hi this is Ahmadul from BUTEX.
 As my semester final is running so I am in hurry to do this project. This prjoect is stared 2 days ago and now its almost done except line chart in dasboard and forgot to create fithub repository.
 Here are some challanges I face to create this project.
 In step1 when I connect project with firebase then it has some issues with compiling. I searched it in google then find that minSDK version must be changed to 21 in build.gradle to solve.
